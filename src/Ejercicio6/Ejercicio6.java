@@ -4,7 +4,7 @@ package Ejercicio6;
 import java.util.Scanner;
 
 
-public class JavaApplication6 {
+public class Ejercicio6 {
 
  
     public static void main(String[] args) {

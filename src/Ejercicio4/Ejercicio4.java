@@ -3,7 +3,7 @@ package Ejercicio4;
 import java.util.Scanner;
 
 
-public class JavaApplication4 {
+public class Ejercicio4 {
 
     
     public static void main(String[] args) {
